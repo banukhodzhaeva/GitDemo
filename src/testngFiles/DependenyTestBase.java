@@ -2,7 +2,8 @@ package testngFiles;
 
 import java.io.IOException;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
+
 
 public class DependenyTestBase extends TestBase {      //we can inherit the property of TestBase class by adding "extends" keyword
 	

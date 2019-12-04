@@ -2,7 +2,7 @@ package test2;
 
 import java.io.IOException;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 import testngFiles.TestBase;
 
@@ -14,5 +14,7 @@ public class fortest2 extends TestBase {
 	{
 		//System.out.println("good");
 		Login();
+		System.out.println("good2");
+		System.out.println("good3");
 	}
 }
