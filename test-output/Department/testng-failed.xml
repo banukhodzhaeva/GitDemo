@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Department]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Business Loan(failed)">
+    <classes>
+      <class name="testngFiles.Annot2">
+        <methods>
+          <include name="deinstallsoftware"/>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- testngFiles.Annot2 -->
+    </classes>
+  </test> <!-- Business Loan(failed) -->
+</suite> <!-- Failed suite [Department] -->
