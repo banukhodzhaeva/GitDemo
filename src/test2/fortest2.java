@@ -18,5 +18,6 @@ public class fortest2 extends TestBase {
 		System.out.println("good3");
 		System.out.println("good3"); //added by american
 		System.out.println("good5"); //added by Indian
+		System.out.println("good6"); //added by american
 	}
 }
